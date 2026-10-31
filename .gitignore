@@ -1,0 +1,5 @@
+env.sh
+data/
+node_modules/
+*.tmp
+*.bak
